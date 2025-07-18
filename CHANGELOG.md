@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Features
+
+* Add a region parameter to allow a single provider to be used for multiple regions, as supported in version 6.0.0+ of the AWS provider.
+
 ## [2.13.0](https://github.com/terraform-aws-modules/terraform-aws-transit-gateway/compare/v2.12.2...v2.13.0) (2025-01-15)
 
 
